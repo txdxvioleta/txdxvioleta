@@ -67,15 +67,6 @@ Soy un **desarrollador full stack** con experiencia en tecnologías modernas com
 📧 Email: [gcaram95@gmail.com](mailto:gcaram95@gmail.com)   
 🔗 [LinkedIn](https://www.linkedin.com/in/gonzalo-caram-0b8511214)
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gcaram95&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
-
 ---
 
 ¡Gracias por pasar por mi perfil! 👨‍💻🚀
