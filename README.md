@@ -37,7 +37,7 @@ Desarrollador apasionado por crear soluciones escalables. Mi enfoque combina la 
 🗓️ *Oct 2025 – Presente* | 📍 Remoto
 > **Foco:** IA aplicada a RRHH, Next.js, NestJS, MongoDB.
 
-* 🤖 **Innovación en IA:** Desarrollo de avatares digitales inteligentes para entrevistas automatizadas y sistemas de análisis de sentimientos.
+* 🤖 **Innovación en IA:** Desarrollo de avatares digitales inteligentes para entrevistas automatizadas y sistemas de análisis de emociones.
 * **⚡ Productividad Asistida por IA:** Uso avanzado de herramientas de IA (Copilot, Cursor) para acelerar el desarrollo y aumentar la eficiencia.
 * 🌎 **Impacto:** Escalado de soluciones para múltiples países en LATAM.
 
