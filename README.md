@@ -3,9 +3,9 @@
   <h1>👋 Hola, soy Gonzalo Rodrigo Caram</h1>
   
   <p style="font-size: 1.1rem;">
-    💻 <b>Full Stack Developer — React · Node.js · TypeScript</b> <br>
+    💻 <b>Software Engineer Full Stack — React · Node.js · TypeScript</b> <br>
     📍 Tucumán, Argentina | 🌐 Trabajo Remoto <br>
-    🚀 +3 años de experiencia en productos web y mobile en producción
+    🚀 4 años de experiencia en productos web y mobile en producción
   </p>
 </div>
 
@@ -13,12 +13,11 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy **Full Stack Developer** con más de **3 años de experiencia** en productos web y mobile en producción (SaaS, retail, edtech, automatización HR).
+Soy **Software Engineer Full Stack** con **4 años de experiencia** en productos web y mobile en producción (SaaS, retail, edtech, automatización HR).
 
 Especializado en **React/TypeScript en frontend** y **Node.js/NestJS en backend**, con experiencia en flujos end-to-end, migraciones de código legacy, arquitecturas event-driven y equipos ágiles remotos.
 
-He trabajado en **SaaS de ventas, plataformas educativas, apps mobile retail y herramientas de RRHH**, siempre orientado a soluciones mantenibles con medición de impacto real.
-Parte de mi experiencia reciente incluye la **integración de soluciones de IA en productos existentes**, principalmente a través de APIs y servicios externos.
+He trabajado en **SaaS de ventas, plataformas educativas, apps mobile retail y herramientas de RRHH**, siempre orientado a soluciones mantenibles con medición de impacto real. Integro soluciones de IA (APIs externas) en productos y utilizo agentes de coding (Claude Code, Cursor) en mi flujo diario.
 
 ---
 
@@ -61,7 +60,7 @@ Parte de mi experiencia reciente incluye la **integración de soluciones de IA e
 ### 🚀 Experiencia Profesional
 
 #### 🏢 Iconic Software | **Frontend Developer (Freelance)**
-🗓️ *Jul 2025 – Presente* | 📍 Remoto  
+🗓️ *Julio 2025 – Julio 2026* | 📍 Remoto  
 > **SaaS de ventas, facturación y stock**
 
 * Lideré migración completa de **JavaScript a TypeScript**, reduciendo errores de tipo en compilación y mejorando la mantenibilidad.
@@ -73,36 +72,33 @@ Parte de mi experiencia reciente incluye la **integración de soluciones de IA e
 
 ---
 
-#### 🏢 MeetPia | **Full Stack Developer**
-🗓️ *Oct 2025 – Ene 2026* | 📍 Remoto  
+#### 🏢 MeetPia | **Full Stack Developer (Contractor)**
+🗓️ *Octubre 2025 – Enero 2026* | 📍 Remoto  
 > **Proyecto SaaS orientado a automatización e IA aplicada a RRHH**
 
-* Diseñé e implementé flujo **end-to-end de solicitud de documentos a candidatos** trabajando en 3 repositorios: endpoints con autenticación por token, templates de email personalizables y cron jobs en NestJS para envío automatizado con links únicos.
-* Construí interfaz de gestión con **React/Next.js y Tailwind CSS** para seleccionar tipos de documentos y crearlos inline; integré subida de archivos a **AWS S3**.
-* Implementé portal de carga de documentos con seguimiento de estado en tiempo real y visualización de archivos recibidos.
+* Diseñé e implementé el flujo end-to-end de solicitud automatizada de documentos a candidatos: endpoints con autenticación por token, templates de email personalizables y cron jobs en NestJS para envío con links únicos.
+* Coordiné el desarrollo a través de 3 repositorios (backoffice, backend y portal de candidatos): construí interfaz de gestión en React/Next.js con creación de documentos, integración con AWS S3 y seguimiento de estado en tiempo real.
 
-*Stack: React, Next.js, NestJS, MongoDB, Tailwind CSS, AWS S3*
+*Stack: React, Next.js, TypeScript, NestJS, MongoDB, Tailwind CSS, AWS S3*
 
 ---
 
 #### 🏢 VORTEX IT | **Full Stack Developer**
-🗓️ *Nov 2022 – Jun 2025 (2 años 7 meses)* | 📍 Tucumán / Remoto  
+🗓️ *Agosto 2022 – Junio 2025 (2 años 11 meses)* | 📍 Remoto  
 
 Contribución directa en **múltiples proyectos en producción** con metodologías ágiles:
 
-* 🛍️ **Carrefour Retail (Android / iOS):**
-  * Desarrollé app mobile con **React Native**: cupones y promociones con plantillas parametrizadas, listas de compras colaborativas en tiempo real con **Firebase Realtime Database**, detalle de productos valorizados.
-  * Implementé **backoffice web con React** para gestión de sucursales (coordenadas geográficas), banners promocionales, encuestas y perfiles de usuario.
+* 🛍️ **Carrefour Argentina — App Mobile + Backoffice Web:**
+  * Desarrollé la Lista de Compra Colaborativa end-to-end (ABM, servicios, Firebase Realtime Database) y el sistema de cupones parametrizados con templates configurables y validación de campos; ambas features en producción en la app mobile Android/iOS (+1M de descargas).
+  * Construí el backoffice web con React para gestión de sucursales (validación de campos geográficos), banners y encuestas; participé también en el backend de la app para servicios de sincronización.
 
-* 💎 **Plataforma "Loyalix":**
-  * Construí backoffice con **React y Material UI**: carga masiva de clientes, exportación a XLSX, filtros avanzados en cupones, cálculo de puntos y control de movimientos.
-  * Desarrollé **APIs REST con NestJS, TypeORM y MySQL** para soporte de billetera virtual (Wallet).
+* 💎 **Plataforma "Loyalix" — Fidelización:**
+  * Diseñé y construí la billetera virtual con NestJS/TypeORM/MySQL: APIs REST con lógica de puntos, canjes y control de movimientos; backoffice React/Material UI con carga masiva de clientes, exportación XLSX y filtrado avanzado de cupones.
 
 * 🎓 **Plataforma Educativa "LIBBRE" (UDD Chile):**
-  * Desarrollé solución **full stack con MERN Stack** para plataforma universitaria de edutainment.
-  * Mantenimiento correctivo y evolutivo en apps iOS/Android y optimización de gestión de contenidos multimedia educativos.
+  * Desarrollé la plataforma educativa full stack: web pública con 12 programas, backoffice de gestión de contenidos y app mobile adaptada. Proyecto universitario desplegado a producción con cobertura en prensa nacional chilena.
 
-*Stack: TypeScript, React, React Native, Redux, Node.js, NestJS, Express, TypeORM, MySQL, MongoDB, Firebase, Material-UI*
+*Stack: TypeScript, React, React Native, Redux Toolkit, Node.js, NestJS, TypeORM, MySQL, MongoDB, Firebase, Material-UI*
 
 ---
 
@@ -113,7 +109,7 @@ Contribución directa en **múltiples proyectos en producción** con metodologí
 * ✅ **TypeScript:** Guía completa.
 * ✅ **React:** De cero a experto.
 
-🌐 **Idiomas:** Español nativo | Inglés B1 (lectura técnica)
+🌐 **Idiomas:** Español nativo | Inglés B1 (lectura y escritura profesional, conversación en desarrollo activo)
 
 ---
 
@@ -121,7 +117,7 @@ Contribución directa en **múltiples proyectos en producción** con metodologí
   <h3>📫 ¿Conectamos?</h3>
   <p>Abierto a nuevas oportunidades y a conversar sobre desarrollo de software y productos web.</p>
   
-  <a href="https://www.linkedin.com/in/gonzalo-caram-0b8511214" target="_blank">
+  <a href="https://www.linkedin.com/in/gonzalo-caram" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:gcaram95@gmail.com">
